@@ -1,0 +1,10 @@
+*.class
+*~
+
+# Package Files #
+*.war
+*.ear
+.project
+.settings
+nbproject
+manifest.mf
